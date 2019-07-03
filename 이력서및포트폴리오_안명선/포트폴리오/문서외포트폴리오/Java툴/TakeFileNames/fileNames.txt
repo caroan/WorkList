@@ -1,0 +1,8 @@
+	.ImagePathExample._ResourceNameExample
+	.ImagePathExample._ResourceNameExample
+ResourceEx_F01	.ImagePathExample.ResourceEx_F01_ResourceNameExample
+ResourceEx_F02	.ImagePathExample.ResourceEx_F02_ResourceNameExample
+ResourceEx_F03	.ImagePathExample.ResourceEx_F03_ResourceNameExample
+ResourceEx_M01	.ImagePathExample.ResourceEx_M01_ResourceNameExample
+ResourceEx_M02	.ImagePathExample.ResourceEx_M02_ResourceNameExample
+ResourceEx_M03	.ImagePathExample.ResourceEx_M03_ResourceNameExample
